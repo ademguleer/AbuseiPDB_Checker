@@ -53,7 +53,7 @@ class AbuseIPDBChecker():
             return None
 
 # AbuseIPDB API anahtarını buraya yerleştirin
-api_key = "6952ce29629c909dc1ed108e0ac89f2105205cf6ea92783062c9122bef48fe664434f8eb50ce1ae8"
+api_key = "Your API KEY"
 
 # AbuseIPDBChecker sınıfından bir örnek oluşturur
 abuseipdb_checker = AbuseIPDBChecker(api_key)
