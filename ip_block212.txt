@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='/opt/cyops-ui/static/.txt' mode='a+' encoding='UTF-8'>
